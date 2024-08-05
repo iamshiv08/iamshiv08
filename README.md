@@ -12,6 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/shivrajsinh raghuvanshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivrajsinh raghuvanshi" height="30" width="40" /></a>
+<a href="https://instagram.com/_itz_shiv_08" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itz_shiv_08" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/shivara6bs2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="shivara6bs2" height="30" width="40" /></a>
 </p>
 
